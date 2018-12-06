@@ -18,23 +18,23 @@ as well as their dependencies.
 ## Code&Data
 This folder contains
  - code for
-  - data preparation
-     - __GetNYData.str__ (SPSS Modeler file, for selecting and binning the data from the dataset provided by the course)
-  - data analysis
-     - __Data_exploration.ipynb__
-     - __Correlation_Analysis.ipynb__
-  - model training
-     - __Regression Analysis.ipynb__
- - __dataset.csv__ containing the data for model training
+    - data preparation
+      - __GetNYData.str__ (SPSS Modeler file, for selecting and binning the data from the dataset provided by the course)
+    - data analysis
+      - __Data_exploration.ipynb__
+      - __Correlation_Analysis.ipynb__
+    - model training
+      - __Regression Analysis.ipynb__
+    - __dataset.csv__ containing the data for model training
 
 ## Demo
-This folder contains demo files:
+This folder contains and code output and demo files:
  - __Code output__: Tree html files are generated from two jupyter notebooks in code folder, containing the output of the code.
  - __Other visualization__: Two pdf files are generated with Tableu workbook, which is linked to the MySQL database.
-  - Hourly rental count: showing the hourly trip demand distribution
-  - User age distribution: showing birth year distribution of users
+    - Hourly_rental_count.pdf: showing the hourly trip demand distribution
+    - User age distribution.pdf: showing birth year distribution of users
  - __Distribution graph__:
-  - A distribution graph folder containing box plots for all variables used in the model training.
+    - Containing box plots for all variables used in the model training.
 
 ## Report.doc
 Only available in BlackBoard submission
